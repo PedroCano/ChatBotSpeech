@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatBotSpeech</string>
+    <string name="tvPulsa">Pulse para hablar</string>
+    <string name="tvTitulo">CHAT BOT</string>
+</resources>
